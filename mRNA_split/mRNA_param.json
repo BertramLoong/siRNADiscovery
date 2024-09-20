@@ -1,0 +1,12 @@
+{
+    "dmodel": 3, 
+    "sirna_length": 21,  
+    "max_mrna_len": 9756, 
+    "batch_size": 64,
+    "epochs": 38,
+    "hinsage_layer_sizes": [64, 32],  
+    "hop_samples": [4, 2],
+    "dropout": 0.3,
+    "lr": 0.001,
+    "loss": "mse"
+}
