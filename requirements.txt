@@ -1,0 +1,8 @@
+stellargraph
+pandas
+numpy
+scikit-learn
+scipy
+biopython
+matplotlib
+tensorflow
