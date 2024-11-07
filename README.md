@@ -2,6 +2,12 @@
 
 This repository contains the source code for **siRNADiscovery**.
 
+Rongzhuo Long†, Ziyu Guo†, Da Han, Boxiang Liu, Xudong Yuan*, Guangyong Chen*, Pheng-Ann Heng, Liang Zhang*<sup>#</sup>, siRNADiscovery: a graph neural network for siRNA efficacy prediction via deep RNA sequence analysis, *Briefings in Bioinformatics*, Volume 25, Issue 6, November 2024, bbae563, https://doi.org/10.1093/bib/bbae563
+
+† contributed equally, 
+\* corresponding authors, 
+<sup>#</sup> lead corresponding author
+
 For questions or further information, please contact the lead corresponding author, Liang Zhang, at [zhangliang@him.cas.cn](mailto:zhangliang@him.cas.cn).
 
 ## Table of Contents
