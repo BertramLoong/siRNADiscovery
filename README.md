@@ -33,7 +33,7 @@ To generate RNA-protein interaction probabilities, we utilize tools provided by 
 
 ### siRNA-mRNA Base-Pairing Probabilities
 
-For siRNA-mRNA base-pairing probabilities, we uss the [ViennaRNA package](https://www.tbi.univie.ac.at/RNA/). Specifically, tools like **RNAcofold** and **RNAfold** are employed for calculating these pairing probabilities.
+For siRNA-mRNA base-pairing probabilities, we use the [ViennaRNA package](https://www.tbi.univie.ac.at/RNA/). Specifically, tools like **RNAcofold** and **RNAfold** are employed for calculating these pairing probabilities.
 
 Refer to the **Data_preprocess** folder for detailed instructions on executing RNAcofold and RNAfold.
 
